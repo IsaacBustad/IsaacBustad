@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @IsaacBustad
+- 👀 I’m interested in ...
+Game design/development and software developement
+- 🌱 I’m currently learning ...
+C#, Java, Python, Microsoft Asure
+- 💞️ I’m looking to collaborate on ...
+Game design/development and software developement
+- 📫 How to reach me ...
+ijbbustad@gmail.com
+<!---
+IsaacBustad/IsaacBustad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
